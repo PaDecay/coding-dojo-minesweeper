@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83775861-1b65-4dad-ab3a-848e64574bb7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="crx-demo-environment-1" />
+    <option name="namespace" value="environment-1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kSpWaYaWjWzfaTOdYFTpAwZNQt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Domain/Mogelzettel" />
+      <recent name="$PROJECT_DIR$/src/Domain/Spielfeld" />
+      <recent name="$PROJECT_DIR$/src/Infrastructure" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83775861-1b65-4dad-ab3a-848e64574bb7" name="Default Changelist" comment="" />
+      <created>1605703880473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605703880473</updated>
+      <workItem from="1605703881571" duration="12956000" />
+      <workItem from="1605792965437" duration="2091000" />
+      <workItem from="1605860851235" duration="20221000" />
+      <workItem from="1606117904594" duration="36299000" />
+      <workItem from="1606303891611" duration="4125000" />
+      <workItem from="1606483995273" duration="829000" />
+      <workItem from="1606489085839" duration="1216000" />
+      <workItem from="1606724383302" duration="908000" />
+      <workItem from="1606736403318" duration="7000" />
+      <workItem from="1606740553421" duration="13000" />
+      <workItem from="1606917100266" duration="712000" />
+      <workItem from="1607327976659" duration="535000" />
+      <workItem from="1607329353296" duration="263000" />
+      <workItem from="1616494821124" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="198" key="#CLI_Interpreters" timestamp="1605793198108">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="427" y="198" key="#CLI_Interpreters/1680.-127.1920.1177/0.23.1680.1027@0.23.1680.1027" timestamp="1605793198108" />
+    <state x="-1677" y="-62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606489088372">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1677" y="-62" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-367.2560.1417/0.23.1680.1027/-4480.-7.1920.1057@-2560.-367.2560.1417" timestamp="1606489088372" />
+    <state x="555" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605786582724">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="555" y="345" key="#com.intellij.fileTypes.FileTypeChooser/1680.-127.1920.1177/0.23.1680.1027@0.23.1680.1027" timestamp="1605786582724" />
+    <state x="-1471" y="30" key="#com.intellij.ide.util.MemberChooser" timestamp="1606214624412">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1471" y="30" key="#com.intellij.ide.util.MemberChooser/-2560.-367.2560.1417/0.23.1680.1027/-4480.-7.1920.1057@-2560.-367.2560.1417" timestamp="1606214624412" />
+    <state x="-1471" y="30" key="#com.intellij.ide.util.MemberChooser/-4480.-7.1920.1057/-2560.-367.2560.1417/0.23.1680.1027@-2560.-367.2560.1417" timestamp="1605878169302" />
+    <state x="-1372" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605880115712">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1372" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/-4480.-7.1920.1057/-2560.-367.2560.1417/0.23.1680.1027@-2560.-367.2560.1417" timestamp="1605880115712" />
+    <state x="-1547" y="-183" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606129310903">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1547" y="-183" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-2560.-367.2560.1417/0.23.1680.1027/-4480.-7.1920.1057@-2560.-367.2560.1417" timestamp="1606129310903" />
+    <state x="-1547" y="-183" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-4480.-7.1920.1057/-2560.-367.2560.1417/0.23.1680.1027@-2560.-367.2560.1417" timestamp="1605884076033" />
+    <state x="578" y="298" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606213367814">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="578" y="298" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-2560.-367.2560.1417/0.23.1680.1027/-4480.-7.1920.1057@-2560.-367.2560.1417" timestamp="1606213367814" />
+    <state x="-1466" y="36" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1" timestamp="1606220294669">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1466" y="36" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1/-2560.-367.2560.1417/0.23.1680.1027/-4480.-7.1920.1057@-2560.-367.2560.1417" timestamp="1606220294669" />
+    <state x="-1503" y="225" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#1" timestamp="1606132635060">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1503" y="225" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#1/-2560.-367.2560.1417/0.23.1680.1027/-4480.-7.1920.1057@-2560.-367.2560.1417" timestamp="1606132635060" />
+    <state x="-1503" y="225" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#1/-4480.-7.1920.1057/-2560.-367.2560.1417/0.23.1680.1027@-2560.-367.2560.1417" timestamp="1605883414828" />
+    <state x="-1404" y="137" key="NewPhpClassDialog" timestamp="1605887714564">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1404" y="137" key="NewPhpClassDialog/-4480.-7.1920.1057/-2560.-367.2560.1417/0.23.1680.1027@-2560.-367.2560.1417" timestamp="1605887714564" />
+    <state x="341" y="175" key="SettingsEditor" timestamp="1605793854518">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="175" key="SettingsEditor/1680.-127.1920.1177/0.23.1680.1027@0.23.1680.1027" timestamp="1605793854518" />
+    <state x="-4507" y="4" width="1920" height="1057" maximized="true" key="dock-window-2" timestamp="1606130016432">
+      <screen x="-4480" y="-7" width="1920" height="1057" />
+    </state>
+    <state x="-4507" y="4" width="1920" height="1057" maximized="true" key="dock-window-2/-2560.-367.2560.1417/0.23.1680.1027/-4480.-7.1920.1057@-2560.-367.2560.1417" timestamp="1606130016432" />
+    <state x="-2231" y="-156" width="1920" height="1057" key="dock-window-4" timestamp="1606208504295">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-2231" y="-156" width="1920" height="1057" key="dock-window-4/-2560.-367.2560.1417/0.23.1680.1027/-4480.-7.1920.1057@-2560.-367.2560.1417" timestamp="1606208504295" />
+    <state x="-1573" y="96" width="586" height="490" key="find.popup" timestamp="1606217254776">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1573" y="96" width="586" height="490" key="find.popup/-2560.-367.2560.1417/0.23.1680.1027/-4480.-7.1920.1057@-2560.-367.2560.1417" timestamp="1606217254776" />
+    <state x="-1663" y="37" width="670" height="676" key="search.everywhere.popup" timestamp="1606128114998">
+      <screen x="-2560" y="-367" width="2560" height="1417" />
+    </state>
+    <state x="-1663" y="37" width="670" height="676" key="search.everywhere.popup/-2560.-367.2560.1417/0.23.1680.1027/-4480.-7.1920.1057@-2560.-367.2560.1417" timestamp="1606128114998" />
+  </component>
+</project>
